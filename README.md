@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoDVaTyEMKwZTIOrvRP0ZXxO05uFZyNEHmrK7VSqlgbuXvZP2ErX0kCnqpyBqsOtUxH0BZtYUu-nYO-IK62yFN6F4e9tDE1SwstpgY2IIvBLv3DaGW-L-XlB886ndHXyItTOvIyn1KwGvt1hmx6SyOoO8MizLyu1uA79Ty3xQ4JZZhZetG77ZCK8iXdG8V/w652-h283/Screenshot%202025-06-22%20211509.png" width="600">
   <br>
-  <em>Screenshot placeholder - replace with actual screenshot</em>
 </p>
 
 ## 🌟 Features
